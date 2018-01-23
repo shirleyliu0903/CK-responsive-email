@@ -1,5 +1,4 @@
 .email-background {
-	border-style: dashed;
 	text-align: center;
 	font-family: arial;
 	background-color: #eee;
@@ -33,7 +32,7 @@ header {
 	display: inline-block;
 	justify-content: space-around;
 	align-items: center;
-	padding: 20px;
+	padding: 16px;
 }
 
 .top-nav ul{
@@ -84,7 +83,7 @@ table img {
 	border-top: 1px solid #eee;
 }
 
-@media only screen and (max-width: 667px) {
+@media only screen and (max-width: 581px) {
 	.top-nav .logo {
 		font-size: 150%;
 	}
